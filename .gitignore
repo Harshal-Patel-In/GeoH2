@@ -9,3 +9,4 @@ Plots/
 Temp/
 .snakemake/
 gurobi.log
+.env
